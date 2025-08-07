@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.env
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Output folder (text + logs)
+output/
+
+# PyCharm IDE files
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
